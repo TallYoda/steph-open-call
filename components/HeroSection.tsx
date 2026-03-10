@@ -6,7 +6,7 @@ export default function HeroSection() {
     <section className="fade-in px-5 pb-16 pt-10">
       <div className="grain-overlay relative mx-auto grid max-w-6xl overflow-hidden rounded-2xl border border-black/20 bg-black text-[#f7f2e8] md:grid-cols-[1.2fr_1fr]">
         <Image
-          src="https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=1600&q=80"
+          src="/hero.jpg"
           alt="Documentary style portrait representing African diaspora storytelling"
           width={1600}
           height={1000}

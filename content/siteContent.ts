@@ -38,22 +38,19 @@ export const homeFeatures: FeatureItem[] = [
     href: "/stories",
     title: "Stories",
     description: "Written works, essays, and literary fragments from across the diaspora.",
-    image:
-      "https://images.unsplash.com/photo-1455885666463-9c41e18888a7?auto=format&fit=crop&w=1200&q=80",
+    image: "/stories.jpg",
   },
   {
     href: "/films",
     title: "Films",
     description: "Short films and moving image experiments rooted in diasporic memory.",
-    image:
-      "https://images.unsplash.com/photo-1485846234645-a62644f84728?auto=format&fit=crop&w=1200&q=80",
+    image: "/films.jpg",
   },
   {
     href: "/conversations",
     title: "Conversations",
     description: "Interviews, panels, and collective dialogue around belonging and imagination.",
-    image:
-      "https://images.unsplash.com/photo-1517048676732-d65bc937f952?auto=format&fit=crop&w=1200&q=80",
+    image: "/conversations.jpg",
   },
 ];
 
